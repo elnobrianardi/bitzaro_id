@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import tick from "../assets/Purple_check.svg";
-import appView from "../assets/appView_1.png";
+import appView from "../assets/appview_1.png";
 
 const Platform = () => {
   return (
